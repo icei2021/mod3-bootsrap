@@ -1,0 +1,18 @@
+.carousel-item img{
+    max-height: 90vh;
+    object-fit: cover;
+    object-position: center;
+}
+
+.cards-gallery .col .card img{
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.parallax{
+    background-color: #343a40;
+    background-image: url(../img/parallax.jpg);
+    background-attachment: fixed;
+    padding: 5rem 0;
+}
